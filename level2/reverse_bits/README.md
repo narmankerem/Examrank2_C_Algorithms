@@ -1,3 +1,6 @@
+## Subject
+
+```
 Assignment name  : reverse_bits
 Expected files   : reverse_bits.c
 Allowed functions:
@@ -8,7 +11,7 @@ example) and returns the result.
 
 Your function must be declared as follows:
 
-unsigned char	reverse_bits(unsigned char octet);
+unsigned char reverse_bits(unsigned char octet);
 
 Example:
 
@@ -18,3 +21,4 @@ _____________
      ||
      \/
  1000  0010
+```
